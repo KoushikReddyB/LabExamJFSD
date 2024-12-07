@@ -1,0 +1,4 @@
+order_id,product_name,quantity,order_date,customer_name
+1,Laptop,5,"2024-12-01 00:00:00.000000",Pikachu
+2,Smartphone,10,"2024-12-02 00:00:00.000000",Jigglypuff
+3,Camera,25,"2024-12-03 00:00:00.000000",Tazan
